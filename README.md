@@ -41,7 +41,7 @@ Application de gestion de tâches avec authentification. Elle propose :
 - Une **liste de tâches** avec **cases à cocher** pour suivre l’état d’avancement  
 - Une **barre de recherche** pour filtrer rapidement les tâches  
 - Un **tableau de bord interactif** pour visualiser la progression globale  
-🔗 [Voir le projet](https://descodeuses-app-todo.netlify.app/login)
+🔗 [Voir le projet](https://descodeuses-app-todo.netlify.app)
 
 ---
 ### 2️⃣ 📇 **Contacts**  
