@@ -52,7 +52,7 @@ Application de gestion de contacts avec **recherche dynamique** et **actions con
 - **Angular Material** : menus contextuels, affichage en liste  
 - **Tailwind CSS** : mise en page responsive avec `flex`
 
-🔗 [Voir le projet]([https://github.com/ton-utilisateur/contacts-app](https://descodeuses-contactlist-app.netlify.app/))
+🔗 [Voir le projet](https://descodeuses-contactlist-app.netlify.app/))
 ---
 ### 3️⃣ 🧮 **Calculatrice**  
 Mini-calculatrice web développée avec Angular, intégrant une interface simple et réactive.
@@ -62,7 +62,7 @@ Mini-calculatrice web développée avec Angular, intégrant une interface simple
 - **Angular Material** : composants `mat-button` pour les interactions  
 - **Tailwind CSS** : mise en page responsive avec `grid` pour organiser les touches  
 
-🔗 [Voir le projet]([https://github.com/ton-utilisateur/calculatrice](https://descodeuses-app-calculatrice.netlify.app/))
+🔗 [Voir le projet](https://descodeuses-app-calculatrice.netlify.app/))
 
 ---
 ### 4️⃣ 💸 **Facturation**  
@@ -74,7 +74,7 @@ Application Angular pour la **gestion complète de factures** avec calculs autom
 - Interface moderne avec **Angular Material**  
 - Données simulées avec **in-memory-web-api**
 
-🔗 [Voir le projet]([https://github.com/ton-utilisateur/factures-angular](https://descodeuses-app-facture.netlify.app/))
+🔗 [Voir le projet](https://descodeuses-app-facture.netlify.app/))
 ---
 ### 5️⃣ 💼 **Portfolio Web**  
 Site portfolio interactif pour présenter mon profil et mes projets.
@@ -86,7 +86,7 @@ Site portfolio interactif pour présenter mon profil et mes projets.
 - **Navigation fluide** entre les sections avec transitions  
 - Intégration d’un **formulaire de contact fonctionnel**  
 
-🔗 [Voir le projet]([https://github.com/ton-utilisateur/portfolio](https://portfolio-ferdaws.netlify.app/))
+🔗 [Voir le projet](https://portfolio-ferdaws.netlify.app/))
 ---
 ## 📫 Me contacter
 
