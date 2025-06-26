@@ -33,6 +33,17 @@ Ingénieure en génie électromécanique de formation, j’ai choisi de me recon
 - **Méthodologies :** responsive design, versioning, composants réutilisables, bonnes pratiques d’accessibilité
 
 ---
+## 🚀 Mes projets récents 
+---
+## 1️⃣ Todo List  
+Application de gestion de tâches avec authentification. Elle propose :  
+- Une **page de connexion sécurisée**  
+- Une **liste de tâches** avec **cases à cocher** pour suivre l’état d’avancement  
+- Une **barre de recherche** pour filtrer rapidement les tâches  
+- Un **tableau de bord interactif** pour visualiser la progression globale  
+🔗 [Voir le projet](https://descodeuses-app-todo.netlify.app/login)
+
+---
 
 ## 📫 Me contacter
 
