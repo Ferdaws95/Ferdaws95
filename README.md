@@ -3,6 +3,7 @@
 📍 Basée à Paris
 
 👩‍💻 À propos de moi
+
 Je m'appelle Ferdaws et je suis actuellement en formation pour devenir Conceptrice Développeuse d'Applications.
 Ingénieure en génie électromécanique de formation, j’ai choisi de me reconvertir dans le développement web afin de créer des solutions numériques utiles, bien pensées et accessibles.
 
