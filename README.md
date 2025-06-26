@@ -1,16 +1,32 @@
-## Hi there 👋
+🌱 Développeuse Web en formation | Ingénieure en Génie Électromécanique
+🎯 En reconversion vers le développement web, passionnée par l’apprentissage continu et les projets concrets.
+📍 Basée à Paris
 
-<!--
-**Ferdaws95/Ferdaws95** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+👩‍💻 À propos de moi
+Je m'appelle Ferdaws et je suis actuellement en formation pour devenir Conceptrice Développeuse d'Applications.
+Ingénieure en génie électromécanique de formation, j’ai choisi de me reconvertir dans le développement web afin de créer des solutions numériques utiles, bien pensées et accessibles.
 
-Here are some ideas to get you started:
+✨ Organisée, curieuse et motivée, j’aime apprendre, expérimenter, coder… et râler un peu quand ça bug 😉.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+📢 Je suis à la recherche d’un stage de 6 mois à partir de septembre pour approfondir mes compétences en conditions réelles.
+
+🔧 Compétences
+Développement web :
+
+Frontend : HTML5, CSS3, JavaScript, Angular
+
+Backend : Node.js (débutante), bases de PHP
+
+En cours d’apprentissage : Java, UX/UI Design avancé, bases de données, Spring Boot
+
+Programmation & outils techniques :
+
+Langages : C, C++, Python, MATLAB, VHDL, Visual Basic
+
+Outils : Git & GitHub, VS Code, Figma
+
+Méthodologies : responsive design, versioning, composants réutilisables, bonnes pratiques d’accessibilité
+
+📫 Me contacter
+✉️ fersaidane@gmail.com
+💼 www.linkedin.com/in/ferdaws-oueslati-59307a138
